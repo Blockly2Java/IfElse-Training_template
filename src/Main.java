@@ -30,7 +30,3 @@ public class Main {
     }
 
 }
-
-
-// main()-Methode starten
-Main.main();
